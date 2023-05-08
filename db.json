@@ -1,7 +1,6 @@
 {
-"data"
-[
-  {
+  "data" : [
+  { 
     "title": "Simply Oven Baked",
     "description": "mangan lurrr",
     "food": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_500,ar_4:3/v1/img/recipes/30/32/45/19L2ucjQneoEANPzyfiQ_0S9A6363.jpg"
@@ -16,5 +15,7 @@
     "description": "Make these tacos the center of your Cinco de Mayo party this year and serve with our Kiwi and Tomatillo Pico de Gallo, Mexican-Style Pickled Vegetables, and Carrot Habanero Hot Sauce. ",
     "food": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_500,ar_4:3/v1/img/submissions/recipe/2001968497/t4Ftsc2ESEao0R5ry8UQ_GKRV_%2520Cinco-De-Mayo-Fish-Tacos_%252002%2520(1).jpg"
   }
-]
+  ]
 }
+
+
